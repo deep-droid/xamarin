@@ -26,5 +26,15 @@ namespace PushUpsUniversal
         {
             this.InitializeComponent();
         }
+
     }
+    public class PushUp
+    {
+        public PushUp()
+        {
+
+        }
+    }
+
+
 }
